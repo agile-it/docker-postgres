@@ -1,4 +1,4 @@
-FROM postgres:9.2
+FROM postgres:9.4
 
 ENV DB_NAME generic
 
